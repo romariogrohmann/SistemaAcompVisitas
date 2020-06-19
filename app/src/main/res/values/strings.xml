@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sistema de Acompanhamento de Visitas</string>
+
+    <string-array name="spinner_resultado">
+        <item>POSITIVO</item>
+        <item>NEGATIVO</item>
+        <item>NÃO SE APLICA</item>
+        <item>CANCELADA</item>
+    </string-array>
+
+    <string-array name="spinner_tipovisita">
+        <item>NEGOCIAL</item>
+        <item>OPERACIONAL</item>
+        <item>RELACIONAMENTO</item>
+    </string-array>
+
+</resources>

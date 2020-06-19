@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "687397044439",
+    "firebase_url": "https://sistemavisitas-cd0d0.firebaseio.com",
+    "project_id": "sistemavisitas-cd0d0",
+    "storage_bucket": "sistemavisitas-cd0d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687397044439:android:90de58decfa454487b3092",
+        "android_client_info": {
+          "package_name": "com.romariogrohmann.sistemagestaodevisitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687397044439-67e65cib7uidpk4bekgg91uu018nbq3b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.romariogrohmann.sistemagestaodevisitas",
+            "certificate_hash": "4b3a39a549304420bcc0345297701d3aac66750f"
+          }
+        },
+        {
+          "client_id": "687397044439-0tbbbdjsajvj585u8ndg9psugnechrat.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFeJww1s4IePOy5DtfNBMfNFX5vozKFU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687397044439-0tbbbdjsajvj585u8ndg9psugnechrat.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
